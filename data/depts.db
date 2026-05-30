@@ -1,0 +1,16 @@
+{"name_th":"อบกรอบ A ผลิต 3","username":"bakea3","sort":10,"_id":"3NwvmDh5KhoXxvcw"}
+{"name_th":"HR/ธุรการ","username":"hradmin","sort":15,"_id":"4QrAwTZCcdpnfb1O"}
+{"name_th":"ห้องซอย","username":"chop1","sort":2,"_id":"IT0gyZTp4Ijvbdrh"}
+{"name_th":"ห้องแพ็ค-ซิล น้ำจิ้ม 4","username":"pack4","sort":12,"_id":"YDp7a8SEKDowetk1"}
+{"name_th":"ห้องแพ็ค 1","username":"pack1","sort":3,"_id":"aBSNdBkvEOhtchyh"}
+{"name_th":"น้ำจิ้มส่วนต้น 4","username":"sauce4","sort":13,"_id":"b6j1MtWrKoZTNyaa"}
+{"name_th":"ห้องซิล 1","username":"seal1","sort":4,"_id":"ccdsvel5VzvC5c5o"}
+{"name_th":"ผสม1+ย่าง1","username":"mix1","sort":1,"_id":"dGhX1uN7vzMqxfI2"}
+{"name_th":"ทาโรโรล","username":"taroroll","sort":5,"_id":"dv8HiVIFKaicAPfH"}
+{"name_th":"ห้องแพ็ค 2","username":"pack2","sort":8,"_id":"kgJhc5dj6cmJ3hys"}
+{"name_th":"อบกรอบ B ผลิต 3","username":"bakeb3","sort":11,"_id":"l7lw5FemuOUcd3qp"}
+{"name_th":"QA","username":"qa","sort":14,"_id":"qQ7PyhAQucN5C479"}
+{"name_th":"ย่าง-ซอย 2","username":"chop2","sort":7,"_id":"rVnddpufGrBjNDI9"}
+{"name_th":"Auto Pack","username":"autopack","sort":9,"_id":"tIR8Zm2l2gv3sWYS"}
+{"name_th":"ผสม 2","username":"mix2","sort":6,"_id":"vs5t0oQqtiiAeXwL"}
+{"$$indexCreated":{"fieldName":"username","unique":true,"sparse":false}}
